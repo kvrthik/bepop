@@ -153,4 +153,5 @@ By following these tips, your audience will experience seamless transitions betw
 
 [^4]: (real) logos, colors, images
 
-[^5]: (does not have physical form) trust, credibility, consumer expectations
+[^5]: (does not have physical form) trust, credibility, consumer expectations , etc...
+
